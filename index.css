@@ -1,0 +1,211 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Poppins';
+}
+.container{
+    width: 1115px;
+    margin: 0 auto;
+}
+.head__product{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 26px;
+    padding-bottom: 26px;
+}
+.head__product li{
+    padding-top: 15px;
+    
+}
+.head__product ul{
+    display: flex;
+    gap: 24px;
+   
+
+}
+.button{
+padding: 10px 30px;
+background-color: #FFFFFF;
+border-radius: 4px;
+border: none;
+border: 2px solid #BCD0E5;
+}
+.button1{
+    padding: 10px 30px;
+    background-color: #02897A;
+    border-radius: 4px;
+    border: 1px solid #02897A;
+    border: none;
+}
+.button1 a{
+    color: white;
+    font-size: 16px;
+}
+.button a{
+    font-size: 16px;
+}
+.main__section__work{
+    display: flex;
+}
+.main__section__work h2{
+font-size: 40px;
+line-height: 60px;
+}
+.main__section__work p{
+    padding-top: 18px;
+    font-size: 18px;
+    line-height: 28px;
+    color: #22343D;
+    padding-bottom: 45px;
+}
+
+.button2{
+    padding: 10px 40px;
+    background-color: #02897A;
+    border-radius: 4px;
+    border: 1px solid #02897A;
+    border: none;
+}
+.button2 a{
+    color: white;
+    font-style: 16px;
+}
+.main__section__work__div{
+    width: 530px;
+    padding-top: 145px;
+    
+}
+.main__section__work__img{
+    padding-top: 25px;
+    padding-bottom: 114px;
+}
+.product{
+    padding-bottom: 262px;
+}
+.product__sarlavha h3{
+    font-size: 32px;
+    width: 539px;
+    line-height: 48px;
+margin-left: 350px;
+
+}
+.product__sarlavha h4{
+    font-size: 32px;
+    width: 539px;
+    line-height: 48px;
+    margin-left: 500px;
+    padding-bottom: 64px;
+}
+.product__first {
+display: flex;
+justify-content: space-between;
+padding-bottom: 34px;
+}
+.product__first div{
+    width: 200px;
+}
+.product__first h4{
+font-size: 22px;
+padding-top: 30px;
+}
+.product__first p{
+font-size: 16px;
+color: #22343D;
+padding-top: 13px;
+line-height: 26px;
+}
+.button3{
+    padding: 15px 40px;
+    background-color: #02897A;
+    border-radius: 4px;
+    border: 1px solid #02897A;
+    border: none;
+    margin-left: 500px;
+
+}
+.button3 a{
+    color: #FFFFFF;
+}
+.management__opti__div{
+    display: flex;
+    gap: 84px;
+}
+.management__opti__div__few{
+    width: 486px;
+   
+}
+.management__opti__div__few b{
+    font-size: 16px;
+
+
+}
+.management__opti__div__few h2{
+font-size: 32px;
+padding-bottom: 33px;
+padding-top: 8px;
+}
+.management__opti__div__few p{
+    line-height: 26px;
+    font-size: 16px;
+    padding-bottom: 33px;
+    padding-top: 12px;
+
+}
+.management__opti__div__few span{
+    font-size: 16px;
+
+}
+.management__opti__if{
+    display: flex;
+    gap: 84px;
+    padding-top: 146px;
+}
+.management__opti__if__are{
+    width: 486px;
+
+}
+.management__opti__if__are__div{
+    display: flex;
+    gap: 30px;
+    padding-top: 30px;
+    width: 486px;
+    line-height: 26px;
+}
+.management__opti__if__are h2{
+padding-top: 8px;
+padding-bottom: 23px;
+font-size: 16px;
+}
+.management__opti__if__are h2{
+font-size: 32px;
+}
+.management__opti__if__are p{
+    font-size: 16px;
+    color: #22343D;
+}
+.management__opti__most{
+    display: flex;
+    padding-top: 146px;
+    gap: 84px;
+    padding-bottom: 200px;
+}
+.management__opti__most__you b{
+font-size: 16px;
+padding-bottom: 8px;
+
+}
+.management__opti__most__you h2{
+font-size: 32px;
+}
+.management__opti__most__you p{
+font-size: 16px;
+line-height: 26px;
+color: #22343D;
+padding-top: 23px;
+padding-bottom: 30px;
+}
+
+
